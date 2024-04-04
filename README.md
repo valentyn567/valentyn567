@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hello world !!!
+
+me stack:
+mySQL, Docker, MSSQL, python, mikrotik, Active directory, DNS, DHCP, VLAN, LAN, WAN 
